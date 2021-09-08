@@ -1,0 +1,15 @@
+{
+  "name": "discordcode",
+  "version": "1.0.0",
+  "description": "DiscordMassager",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Finn",
+  "license": "ProG Copyright, Permission needed to Use ProG#8888",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ytdl-core": "^4.8.2"
+  }
+}
